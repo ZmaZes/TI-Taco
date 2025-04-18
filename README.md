@@ -21,6 +21,8 @@ Use the [TI Connect CE App](https://education.ti.com/en/software/details/en/CA9C
 - Press mode while in a game to exit to the main menu
 - Press clear while in a game to cleae the board
 - Press mode while on the main menu to access the restore option (see above)
+- Use the arrow keys to move the cursor
+- Press enter to make a selection
 
 # Variables
 This program uses the variables listed below. Make sure not to store any important data in them before running the program.
